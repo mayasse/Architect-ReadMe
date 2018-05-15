@@ -18,13 +18,23 @@ I respond to email and slack, but if possible I prefer face-to-face communicatio
 Please give me some... thanks!  Generally I am insecure, therefore the more feedback I get from you the better.  It lets me know where I stand, helps build trust between us, and will help make it easier when you finally have something hard to say to me...
 
 # About me
-I could be called a collector, or a "grow the circle wider" personality.  What does that mean?  It means that typically I would want more people involved in a problem or group rather than less.  Relationships are important to me; I like gathering more relationships.  I also collect vocabulary, new languages, pictures, ...
+I place stong emphasis on relationships and values.
 
 I hope to be persuasive about my ideas, and able to be persuaded by you.
 
 I like to keep active: beyond hitting the gym on week days my current "sport" (another one for my 'collection'?) is free-climbing.  I used to play soccer, I used to study tae kwon do, sail boats, etc.  I also really enjoy cooking and collect new cooking ideas from wherever I go.
 
 I have 3 grown children, 1 grandchild and one on the way.
+
+# Strength Finder Qualities
+- Connectedness, Adaptible, Positive, Input/Collector, Includer
+
+# Insights Survey Info:
+Mark’s key strengths:
+Skilled at defusing tense situations.  Compassionate, with a caring and concerned approach. Sensitive to the needs of others.  Curious and keen observer of life.  Likes to work for the common good.  Strong sense of personal values.  Good listener. Can help others achieve their goals.  Can gain personal fulfilment through helping others.  Values differences.  Makes time for people and their problems.
+
+Mark’s possible weaknesses:
+Preserves relationships - can interfere with task completion.  Masks his true feelings to avoid unpleasantness.  May fail to respond adequately to “big picture” opportunities.  Seen as rather rigid, inflexible and unbending.  May appear slow to make decisions.  May become stubborn if pressured.  May sometimes be seen as a poor time manager.  Usually takes rejection personally.  The tendency to focus upon past failures rather than significant successes.  Avoids conflict like the plague.
 
 # Projects
 - Private Fonts
