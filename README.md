@@ -37,9 +37,10 @@ Mark’s possible weaknesses:
 Preserves relationships - can interfere with task completion.  Masks his true feelings to avoid unpleasantness.  May fail to respond adequately to “big picture” opportunities.  Seen as rather rigid, inflexible and unbending.  May appear slow to make decisions.  May become stubborn if pressured.  May sometimes be seen as a poor time manager.  Usually takes rejection personally.  The tendency to focus upon past failures rather than significant successes.  Avoids conflict like the plague.
 
 # Projects
-- Private Fonts
-- User Management Solutions
-- 
+- Moasic Web Application
+- - Private Fonts
+- - User Management Solutions
+- WFS Redux
 
 # Career Directions
 
