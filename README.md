@@ -26,10 +26,10 @@ I like to keep active: beyond hitting the gym on week days my current "sport" (a
 
 I have 3 grown children, 1 grandchild and one on the way.
 
-# Strength Finder Qualities
+# Strength Finder(r) Qualities
 - Connectedness, Adaptible, Positive, Input/Collector, Includer
 
-# Insights Survey Info:
+# Insights Survey(r) Info:
 Mark’s key strengths:
 Skilled at defusing tense situations.  Compassionate, with a caring and concerned approach. Sensitive to the needs of others.  Curious and keen observer of life.  Likes to work for the common good.  Strong sense of personal values.  Good listener. Can help others achieve their goals.  Can gain personal fulfilment through helping others.  Values differences.  Makes time for people and their problems.
 
