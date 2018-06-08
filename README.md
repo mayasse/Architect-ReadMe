@@ -36,6 +36,9 @@ Skilled at defusing tense situations.  Compassionate, with a caring and concerne
 Mark’s possible weaknesses:
 Preserves relationships - can interfere with task completion.  Masks his true feelings to avoid unpleasantness.  May fail to respond adequately to “big picture” opportunities.  Seen as rather rigid, inflexible and unbending.  May appear slow to make decisions.  May become stubborn if pressured.  May sometimes be seen as a poor time manager.  Usually takes rejection personally.  The tendency to focus upon past failures rather than significant successes.  Avoids conflict like the plague.
 
+# 16 Personalities (r):
+https://www.16personalities.com/enfp-personality
+
 # Projects
 - Moasic Web Application
 - - Private Fonts
