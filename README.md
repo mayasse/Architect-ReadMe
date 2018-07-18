@@ -24,7 +24,7 @@ I hope to be persuasive about my ideas, and able to be persuaded by you.
 
 I like to keep active: beyond hitting the gym on week days my current "sport" (another one for my 'collection'?) is free-climbing.  I used to play soccer, I used to study tae kwon do, sail boats, etc.  I also really enjoy cooking and collect new cooking ideas from wherever I go.
 
-I have 3 grown children, 1 grandchild and one on the way.
+I have 3 grown children, and 2 grandchildren.
 
 # Strength Finder(r) Qualities
 - Connectedness, Adaptible, Positive, Input/Collector, Includer
@@ -40,10 +40,11 @@ Preserves relationships - can interfere with task completion.  Masks his true fe
 https://www.16personalities.com/enfp-personality
 
 # Projects
-- Moasic Web Application
+- Moasic Web and Desktop Applications
 - - Private Fonts
 - - User Management Solutions
-- WFS Redux
+- - Projects/Lists redux
+- - Desktop Font Management 
 
 # Career Directions
 
