@@ -1,6 +1,14 @@
 # Hello, I'm Mark
 Hi, I look forward to knowing you better, and please be confident that this document is not intended to replace the relationship we will build as we work together. I intend this document to give you insight into my opinion about how I like to work and how I think.  As we build trust I would like your thoughts about how accurate this document is.
 
+# My Vision (2019)
+For Mosaic to be a tribe that builds and enhances the best services that Monotype has to offer in support of its own flagship appliction, and all other Monotype applications.
+
+For myself to be a tribe architect that:
+- Gains the trust of the implementors and business owners equally.
+- Oversees the tribe technical approach such that the tribe output reaches Monotype' goals.
+- Recreates this role in others.
+
 # My role as a Software Architect
 My #1 goal is to make our team successful and happy. I believe working on things that both provide value to our customers and use each individual's strengths is a good way to do that.  Particularly:
 1. I enjoy my work, and I want you to enjoy yours.  I love helping people develop their skills.
